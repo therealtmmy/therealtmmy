@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**EOluwatimilehin/EOluwatimilehin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there, I'm Oluwatimilehin Esan 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Frontend Development ...
@@ -13,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me oluwatimilehinsamson@gmail.com ...
 - 😄 Pronouns: He/His...
 - ⚡ Fun fact: ...
--->
+
