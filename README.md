@@ -1,5 +1,5 @@
-### Hi there, I'm Oluwatimilehin Esan 👋
-<h3 align="center">A Curious Frontend Developer from Lagos, Nigeria.</h3>
+### align="center" Hi there, I'm Oluwatimilehin Esan 👋
+<h6 align="center">A Curious Frontend Developer from Lagos, Nigeria.</h3>
 
 - 🌱 I’m currently learning CSS and Javascript
 - 👯 I’m looking to collaborate on E-Commerce Platforms and Interactive Designs...
