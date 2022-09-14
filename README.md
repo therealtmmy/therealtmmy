@@ -14,7 +14,7 @@
   <a href="mailto:oluwatimilehinsamson@gmail.com"><img src="https://img.shields.io/badge/-Timmi-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:oluwatimilehinsamson@gmail.com" alt="Gmail Badge"></a></p>
 
 
-<h2> My Tools </h2>
+<h2> My Tools & Skill </h2>
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="40" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="40" width="40"/>
@@ -22,6 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height="40" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/photoshop/photoshop-plain.svg" alt="VSCode" height="40" width="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg"  alt="CodePen" height="40" width="40"/>
         
 </p>
