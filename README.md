@@ -1,5 +1,5 @@
 <h2> Hi there, I'm Oluwatimilehin Esan 👋 </h2>
-<h3>I'm a Front-end Developer</h3>
+<h3>I'm a Front-end Developer. I'm currently learning react.</h3>
 
 <h2>About Me</h2>
 <ul>
