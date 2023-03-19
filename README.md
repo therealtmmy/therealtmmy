@@ -3,8 +3,8 @@
 
 <h2>About Me</h2>
 <ul>
-<li>👯 I’m looking to collaborate on E-Commerce Platforms and Interactive Designs...</li>
-<li>💬 Ask me about Frontend Development</li>
+<li>👯 I’m looking to collaborate on cool projects...</li>
+<li>💬 You can contact me at <a href="mailto:oluwatimilehinsamson@gmail.com">oluwatimilehinsamson@gmail.com</a> </li>
 <li>⚡ Fun fact: I love coding.</li>
 </ul>
 
