@@ -6,7 +6,7 @@
 <li>👯 I’m looking to collaborate on cool projects...</li>
 <li>❤️ I love contributing to open source projects</li>
   <li>💻 I'm currently learning to master Javascript and React; like they say - learning never ends</li>
-  <li>😔 I'm in between jobs - please reach out to me if you have a frontend offer for me. Thank you<li>
+  <li>😔 I'm in between jobs - please reach out to me if you have a frontend offer for me. Thank you</li>
 <li>💬 You can contact me at <a href="mailto:oluwatimilehinsamson@gmail.com">oluwatimilehinsamson@gmail.com</a> </li>
 <li>⚡ Fun fact: I love coding.</li>
 </ul>
