@@ -11,6 +11,8 @@
 <li>⚡ Fun fact: I love coding.</li>
 </ul>
 
+[![An image of @therealtmmy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/therealtmmy)](https://holopin.io/@therealtmmy)
+
 <h2>Connect with me</h3>
 <p><a href="https://www.linkedin.com/in/oluwatimilehin-s-esan-32a66a157/"><img src="https://img.shields.io/badge/-Oluwatimilehin-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/oluwatimilehin-s-esan-32a66a157" alt="LinkedIn Badge"></a> 
   <a href="https://twitter.com/therealtmmy/"><img src="https://img.shields.io/badge/-therealtmmy-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
