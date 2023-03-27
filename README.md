@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height="40" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/photoshop/photoshop-plain.svg" alt="VSCode" height="40" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/photoshop/photoshop-plain.svg" alt="photoshop" height="40" width="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg"  alt="CodePen" height="40" width="40"/>
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  alt="figma" height="40" width="40"/>
         
