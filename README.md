@@ -12,8 +12,6 @@
 </ul>
 
 [![An image of @therealtmmy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/therealtmmy)](https://holopin.io/@therealtmmy)
-<figure><embed src="https://wakatime.com/share/@therealtmmy/954fc244-0097-4320-9069-46e745b4e482.svg"></embed></figure>
- <img src="https://wakatime.com/share/@therealtmmy/954fc244-0097-4320-9069-46e745b4e482.svg" alt="CSS"/>
 
 <h2>Connect with me</h3>
 <p><a href="https://www.linkedin.com/in/oluwatimilehin-s-esan-32a66a157/"><img src="https://img.shields.io/badge/-Oluwatimilehin-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/oluwatimilehin-s-esan-32a66a157" alt="LinkedIn Badge"></a> 
@@ -35,3 +33,5 @@
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  alt="figma" height="40" width="40"/>
         
 </p>
+
+<img src="https://wakatime.com/share/@therealtmmy/954fc244-0097-4320-9069-46e745b4e482.svg"/>
