@@ -4,7 +4,7 @@
 <h2>About Me</h2>
 <ul>
 <li>❤️ I love contributing to open source projects</li>
-  <li>😔 I'm in between jobs - please reach out to me if you have a frontend offer for me. Thank you</li>
+  <li>😔 I'm in between jobs - please reach out to me if you have a frontend role for me. Thank you</li>
   <li>I have years of experience in Graphics Design</li>
 <li>💬 You can contact me at <a href="mailto:oluwatimilehinsamson@gmail.com">oluwatimilehinsamson@gmail.com</a> </li>
 <li>⚡ Fun fact: I love coding.</li>
