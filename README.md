@@ -1,23 +1,19 @@
-<h2> Hi there, I'm Oluwatimilehin Esan 👋 </h2>
-<h3>I'm a Front-end Developer. I'm currently learning react.</h3>
+<h2> Hi there, I'm Timmi 👋 </h2>
+<h3>I'm a Front-End Developer. I'm currently learning React.</h3>
 
 <h2>About Me</h2>
 <ul>
-<li>👯 I’m looking to collaborate on cool projects...</li>
 <li>❤️ I love contributing to open source projects</li>
-  <li>💻 I'm currently learning to master Javascript and React; like they say - learning never ends</li>
   <li>😔 I'm in between jobs - please reach out to me if you have a frontend offer for me. Thank you</li>
+  <li>I have years of experience in Graphics Design</li>
 <li>💬 You can contact me at <a href="mailto:oluwatimilehinsamson@gmail.com">oluwatimilehinsamson@gmail.com</a> </li>
 <li>⚡ Fun fact: I love coding.</li>
 </ul>
-
- <img src="https://developers.google.com/static/profile/badges/events/io/2023/attendee/badge.svg" alt="Google-2023-attendee-Bagde"/>
 
 <h2>Connect with me</h3>
 <p><a href="https://www.linkedin.com/in/oluwatimilehin-s-esan-32a66a157/"><img src="https://img.shields.io/badge/-Oluwatimilehin-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/oluwatimilehin-s-esan-32a66a157" alt="LinkedIn Badge"></a> 
   <a href="https://twitter.com/therealtmmy/"><img src="https://img.shields.io/badge/-therealtmmy-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
   <a href="mailto:oluwatimilehinsamson@gmail.com"><img src="https://img.shields.io/badge/-Timmi-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:oluwatimilehinsamson@gmail.com" alt="Gmail Badge"></a></p>
-
 
 <h2> My Tools & Skill </h2>
 <p align="left">
