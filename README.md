@@ -1,11 +1,13 @@
 <h2> Hi there, I'm Timmi 👋 </h2>
-<h3>I'm a Front-End Developer. I'm currently learning React.</h3>
+<h3>I'm a Front-End Developer.</h3>
 
 <h2>About Me</h2>
 <ul>
 <li>❤️ I love contributing to open source projects</li>
   <li>😔 I'm in between jobs - please reach out to me if you have a frontend role for me. Thank you</li>
-  <li>I have years of experience in Graphics Design</li>
+  <li>I have two years experience in HTML, CSS</li>
+   <li>I work with JavaScript and ReactJs</li>
+   <li>I have years of experience in Graphics Design</li>
 <li>💬 You can contact me at <a href="mailto:oluwatimilehinsamson@gmail.com">oluwatimilehinsamson@gmail.com</a> </li>
 <li>⚡ Fun fact: I love coding.</li>
 </ul>
