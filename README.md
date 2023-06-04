@@ -1,37 +1,18 @@
-<h2> Hi there, I'm Timmi 👋 </h2>
-<h3>I'm a Front-End Developer.</h3>
+# Hi there, I'm Timmi! 👋
 
-<h2>About Me</h2>
-<ul>
-<li>❤️ I love contributing to open source projects</li>
-  <li>😔 I'm in between jobs - please reach out to me if you have a frontend role for me. Thank you</li>
-  <li>I have two years experience in HTML, CSS</li>
-   <li>I work with JavaScript and ReactJs</li>
-   <li>I have years of experience in Graphics Design</li>
-<li>💬 You can contact me at <a href="mailto:oluwatimilehinsamson@gmail.com">oluwatimilehinsamson@gmail.com</a> </li>
-<li>⚡ Fun fact: I love coding.</li>
-</ul>
+I'm a highly motivated Front-End Developer with a passion for crafting exceptional user experiences and contributing to open source projects.
 
-<h2>Connect with me</h3>
-<p><a href="https://www.linkedin.com/in/oluwatimilehin-s-esan-32a66a157/"><img src="https://img.shields.io/badge/-Oluwatimilehin-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/oluwatimilehin-s-esan-32a66a157" alt="LinkedIn Badge"></a> 
-  <a href="https://twitter.com/therealtmmy/"><img src="https://img.shields.io/badge/-therealtmmy-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
-  <a href="mailto:oluwatimilehinsamson@gmail.com"><img src="https://img.shields.io/badge/-Timmi-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:oluwatimilehinsamson@gmail.com" alt="Gmail Badge"></a></p>
+## About Me
 
-<h2> My Tools & Skill </h2>
-<p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height="40" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/photoshop/photoshop-plain.svg" alt="photoshop" height="40" width="40"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg"  alt="CodePen" height="40" width="40"/>
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  alt="figma" height="40" width="40"/>
-        
-</p>
+- 💼 I'm actively seeking a challenging frontend role where I can apply my skills and creativity to deliver impactful web solutions.
+- 💻 With two years of experience in HTML and CSS, I specialize in building responsive and visually stunning websites that engage users.
+- ⚛️ Proficient in JavaScript and ReactJs, I leverage these technologies to create interactive and dynamic web applications with clean and maintainable code.
+- 🎨 As an experienced Graphics Designer, I bring a keen eye for aesthetics and attention to detail to deliver visually appealing designs that align with modern design principles.
+- ❤️ I actively contribute to open source projects, continuously learning and collaborating with developers worldwide to stay up to date with the latest industry trends and best practices.
+- ⚡ Fun fact: Coding is not just my profession, it's my passion! I thrive on solving complex problems and constantly pushing the boundaries of what's possible.
 
-[![An image of @therealtmmy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/therealtmmy)](https://holopin.io/@therealtmmy)
+## Contact Me
 
-<img src="https://wakatime.com/share/@therealtmmy/954fc244-0097-4320-9069-46e745b4e482.svg"/>
+📫 Feel free to reach out to me at oluwatimilehinsamson@gmail.com. I would love to discuss any exciting opportunities, projects, or collaborations with recruiters and fellow developers.
+
+Let's connect and create remarkable digital experiences together! 🚀
