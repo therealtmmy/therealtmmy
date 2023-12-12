@@ -11,9 +11,7 @@ I'm a highly motivated Front-End Developer with a passion for crafting exception
 - ❤️ I actively contribute to open source projects, continuously learning and collaborating with developers worldwide to stay up to date with the latest industry trends and best practices.
 - ⚡ Fun fact: Coding is not just my profession, it's my passion! I thrive on solving complex problems and constantly pushing the boundaries of what's possible.
 
-## My Tool
-
-<h2> My Tools </h2>
+## My Tools
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="40" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="40" width="40"/>
