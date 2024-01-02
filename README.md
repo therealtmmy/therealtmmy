@@ -27,6 +27,7 @@ I'm a highly motivated Front-End Developer with a passion for crafting exception
            
         
 </p>
+
 ## Contact Me
 
 📫 Feel free to reach out to me at oluwatimilehinsamson@gmail.com. I would love to discuss any exciting opportunities, projects, or collaborations with recruiters and fellow developers.
