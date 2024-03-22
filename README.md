@@ -23,6 +23,7 @@ I'm a highly motivated Front-End Developer with a passion for crafting exception
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height="40" width="40"/>
                       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png"  alt="PhotoShop" height="40" width="40"/>
                        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"  alt="Figma" height="40" width="40"/>
+                       <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" height="40" width="40" />
            
         
 </p>
